@@ -1,0 +1,72 @@
+B20 Interview questions
+==================================
+1. What do you like about agile?
+2. What challenges can while working in agile environment?
+3. Who accepts user stories?
+4. What agile meetings you attend? 
+5. What do you like about being part of scrum team?
+6. What is your team size?   
+7. What is product backlog
+8. What is sprint backlog
+9. Be ready to talk about meeting more in detail
+10. What is Epic
+11. What is user story
+12. What is AC 
+13. What kind of impediments you had?
+14. How big is your project?
+15. Have you worked in Kanban?
+16. How often do you have releases?
+17. What is definition of ready? 
+18. What is definition of done?
+19. What is increment?
+20. What is testing? 
+21. What is manual testing? 
+22. What is dynamic testing and what is static testing? 
+23. what is functional testing?
+24. what is unit testing and who does that? 
+25. what is integration testing and who does that? 
+26. What is smoke test?
+27. Who runs the smoke test?
+28. How long does your smoke test take to run?
+29. How many scenarios does your smoke test have? 
+30. Where do we run smoke test? 
+31. What is white box testing?
+32. What is black box testing?
+33. What is the difference between regression and retest? 
+34. When your test analyses happen?
+35. What is difference between TC and TS? 
+36. What do you do when you find a defect? 
+37. What is defect priority? and who decides that?
+38. What is defect severity? and who decides that?
+39. What project management tool do you use? 
+40. What questions you have for us?
+41. What do you do while developers develop? 
+42. Why are you applying to our company? 
+43. Describe your testing process during the sprint
+44. What you do when you find a defect
+45. Your day to day activities
+46. My responsibilities 
+47. What motivates you?
+48. What demotivates you? 
+49. Where do you see yourself in 6 months? - short term 
+50. Where do you see yourself in 5 years?  - long term 
+51. Three things you good at?
+52. When to start testing?
+53. Why to automate? 
+54. When to automate?
+55. How to achieve better test coverage?  
+56. Tell me about yourself
+
+
+
+
+
+
+
+
+
+
+
+
+
+
